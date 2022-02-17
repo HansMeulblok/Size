@@ -52,7 +52,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 75f8ecf62ae77bf48a5fa08ef39335e9, type: 3}
+        m_Texture: {fileID: 2800000, guid: ae87afc18db01154a9c5a13a54f483d4, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
@@ -108,16 +108,16 @@ Material:
     - _ColorVarHeu: 0
     - _ColorVariation: 0
     - _Cull: 0
-    - _Cutoff: 0.66
+    - _Cutoff: 0.07
     - _Debug: 0
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
-    - _FlatLighting: 1
+    - _FlatLighting: 0.12
     - _FresnelScale: 1
     - _GlossMapScale: 1
     - _Glossiness: 0
     - _GlossyReflections: 1
-    - _GradientBrightness: 1.95
+    - _GradientBrightness: 0.18
     - _MaskClipValue: 0.5
     - _MaxWindStrength: 0.34
     - _Metallic: 0
@@ -128,7 +128,7 @@ Material:
     - _Shadows: 0.855
     - _Shininess: 0.1
     - _SmoothShading: 1
-    - _Smoothness: 0.55
+    - _Smoothness: 0.82
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SquashAmount: 1
@@ -154,14 +154,14 @@ Material:
     - _ZWrite: 1
     - __dirty: 0
     m_Colors:
-    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Color: {r: 1.0039216, g: 1.0039216, b: 1.0039216, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _HueVariation: {r: 1, g: 0.877104, b: 0.3537736, a: 0.21960784}
+    - _HueVariation: {r: 0.8584906, g: 0.77404046, b: 0.40899786, a: 0.1764706}
     - _MainColor: {r: 0.5441177, g: 0.9052481, b: 1, a: 0}
     - _ObjectPosition: {r: 0, g: 22.15737, b: 0, a: 0}
     - _SpecColor: {r: 0, g: 0, b: 0, a: 0}
     - _Transmisioncolor: {r: 1, g: 0.9724137, b: 0, a: 0}
-    - _TransmissionColor: {r: 0.0546536, g: 0.2735849, b: 0.0038714774, a: 0.23529412}
+    - _TransmissionColor: {r: 0.0546536, g: 0.2735849, b: 0.0038714774, a: 1}
     - _TreeInstanceColor: {r: 1, g: 1, b: 1, a: 1}
     - _TreeInstanceScale: {r: 1, g: 1, b: 1, a: 1}
     - _VariationColor: {r: 1, g: 0.6827586, b: 0, a: 0.05882353}
