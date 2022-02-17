@@ -63,7 +63,7 @@ Material:
     - _BendRotationRandom: 0.2
     - _BladeCurve: 2
     - _BladeForward: 0.04
-    - _BladeHeight: 0.01
+    - _BladeHeight: 0.32
     - _BladeHeightRandom: 0.3
     - _BladeRandomAmount: 0.5
     - _BladeSegments: 3
