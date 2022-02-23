@@ -124,18 +124,18 @@ Material:
     - _ColorVarHeu: 0
     - _ColorVariation: 0
     - _Cull: 0
-    - _Cutoff: 0.23
+    - _Cutoff: 0.6
     - _Debug: 0
     - _DetailNormalMapScale: 1
     - _Dist: 0
     - _DstBlend: 0
-    - _FlatLighting: 0
+    - _FlatLighting: 0.82
     - _Float8: 0.1
     - _Gloss: 0.5
     - _GlossMapScale: 1
     - _Glossiness: 0
     - _GlossyReflections: 1
-    - _GradientBrightness: 1
+    - _GradientBrightness: 1.5
     - _MaskClipValue: 0.5
     - _MaxWindStrength: 0.1
     - _Metallic: 0
@@ -145,7 +145,7 @@ Material:
     - _Shadows: 1
     - _Shininess: 0.1
     - _SmoothShading: 0
-    - _Smoothness: 0
+    - _Smoothness: 1
     - _SmoothnessTextureChannel: 0
     - _Snow: 0.988
     - _SnowHeight: 0.083
@@ -178,13 +178,13 @@ Material:
     - __dirty: 0
     - _node_3730: 0
     m_Colors:
-    - _Color: {r: 0.2613871, g: 1, b: 0, a: 1}
+    - _Color: {r: 0.07044024, g: 0.26415092, b: 0, a: 0.53333336}
     - _Color1: {r: 0, g: 0, b: 0, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _HueVariation: {r: 0.565713, g: 1, b: 0.4669811, a: 0.209}
+    - _HueVariation: {r: 0.45285282, g: 0.990566, b: 0.3317462, a: 0.4627451}
     - _SpecColor: {r: 0, g: 0, b: 0, a: 0}
     - _Transmisioncolor: {r: 1, g: 1, b: 1, a: 0.122}
-    - _TransmissionColor: {r: 1.1294118, g: 4, b: 0, a: 0.191}
+    - _TransmissionColor: {r: 0.41306576, g: 1.4610292, b: 0, a: 0.191}
     - _VariationColor: {r: 1, g: 0.5, b: 0, a: 0.297}
     - _Variationcolor: {r: 1, g: 0.8896551, b: 0, a: 0}
     - _WindDirection: {r: 0.93536794, g: 0, b: 0.35367614, a: 0}
