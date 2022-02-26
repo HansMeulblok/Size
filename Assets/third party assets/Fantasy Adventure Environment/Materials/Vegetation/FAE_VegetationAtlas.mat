@@ -100,7 +100,7 @@ Material:
     - _BumpScale: 1
     - _ColorVariation: 0.168
     - _Colorvariation: 0
-    - _Cutoff: 0.5
+    - _Cutoff: 0.043
     - _Debug: 0
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
@@ -116,7 +116,7 @@ Material:
     - _LeafFlutter: 0.026
     - _MaskClipValue: 0.5
     - _MaxHeight: 0
-    - _MaxWindStrength: 1
+    - _MaxWindStrength: 0.172
     - _Metallic: 0
     - _MinHeight: -0.5
     - _Mode: 1
