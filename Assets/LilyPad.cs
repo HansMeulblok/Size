@@ -16,8 +16,6 @@ public class LilyPad : MonoBehaviour
             Transform newTransform = other.transform.root;
             newTransform.parent = this.transform;
             movePad = true;
-            // move platform
-
         }
     }
 
@@ -38,8 +36,5 @@ public class LilyPad : MonoBehaviour
             distanceTravelled += speed * Time.deltaTime;
             transform.position = pathCreator.path.GetPointAtDistance(distanceTravelled);
         }
-       
-
-        
     }
 }
