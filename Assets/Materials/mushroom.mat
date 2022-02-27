@@ -63,16 +63,16 @@ Material:
     - _AmbientOcclusion: 0
     - _BendingInfluence: 0
     - _BumpScale: 1
-    - _Cutoff: 0.5
+    - _Cutoff: 0
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
     - _FlatLighting: 0
-    - _GlobalWindMotion: 1
+    - _GlobalWindMotion: 0
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
-    - _LeafFlutter: 0.495
-    - _MaxWindStrength: 0.095
+    - _LeafFlutter: 0.375
+    - _MaxWindStrength: 0.072
     - _Metallic: 0
     - _Mode: 0
     - _OcclusionStrength: 1
@@ -80,12 +80,12 @@ Material:
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
-    - _TransmissionAmount: 2.696819
-    - _TransmissionSize: 1
+    - _TransmissionAmount: 10
+    - _TransmissionSize: 2.5
     - _UVSec: 0
     - _WindAmplitudeMultiplier: 10
     - _WindSwinging: 0
-    - _WindTint: 0.1
+    - _WindTint: -0.5
     - _ZWrite: 1
     - __dirty: 1
     m_Colors:

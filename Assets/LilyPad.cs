@@ -19,14 +19,14 @@ public class LilyPad : MonoBehaviour
         }
     }
 
-    void OnTriggerExit(Collider other)
-    {
-        if(other.CompareTag("Player"))
-        {
-            Transform newTransform = other.transform.root;
-            newTransform.parent = null;
-        }
-    }
+    // void OnTriggerExit(Collider other)
+    // {
+    //     if(other.CompareTag("Player"))
+    //     {
+    //         Transform newTransform = other.transform.root;
+    //         newTransform.parent = null;
+    //     }
+    // }
 
 
     void Update()
