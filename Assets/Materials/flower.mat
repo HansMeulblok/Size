@@ -9,7 +9,7 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: flower
   m_Shader: {fileID: 4800000, guid: e27c26c0ecebef247ba69245490f2562, type: 3}
-  m_ShaderKeywords: 
+  m_ShaderKeywords: _ALPHATEST_ON
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -40,7 +40,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: 3edcecffdbbe94740b3620675f87e584, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
@@ -60,19 +60,19 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - _AmbientOcclusion: 0
-    - _BendingInfluence: 0
+    - _AmbientOcclusion: 0.521
+    - _BendingInfluence: 0.2
     - _BumpScale: 1
-    - _Cutoff: 0.5
+    - _Cutoff: 0.44
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
     - _FlatLighting: 0
-    - _GlobalWindMotion: 1
+    - _GlobalWindMotion: 0.184
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
-    - _LeafFlutter: 0.495
-    - _MaxWindStrength: 0.126967
+    - _LeafFlutter: 0.026
+    - _MaxWindStrength: 0.172
     - _Metallic: 0
     - _Mode: 0
     - _OcclusionStrength: 1
@@ -80,15 +80,15 @@ Material:
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
-    - _TransmissionAmount: 2.696819
-    - _TransmissionSize: 1
+    - _TransmissionAmount: 4.19
+    - _TransmissionSize: 20
     - _UVSec: 0
     - _WindAmplitudeMultiplier: 10
-    - _WindSwinging: 0
-    - _WindTint: 0.1
+    - _WindSwinging: 0.565
+    - _WindTint: 0
     - _ZWrite: 1
-    - __dirty: 1
+    - __dirty: 0
     m_Colors:
-    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Color: {r: 5.656854, g: 2.329293, b: 3.7934198, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
   m_BuildTextureStacks: []

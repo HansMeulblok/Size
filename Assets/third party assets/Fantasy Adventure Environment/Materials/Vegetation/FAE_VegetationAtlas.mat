@@ -100,7 +100,7 @@ Material:
     - _BumpScale: 1
     - _ColorVariation: 0.168
     - _Colorvariation: 0
-    - _Cutoff: 0.043
+    - _Cutoff: 0.44
     - _Debug: 0
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
